@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tadanori",
  "yomi": "たいらのただのりあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "平忠度（1144〜1184）",
+  "desc": "平家の武将で歌人の平忠度の家集。経盛家の歌合の歌などを四季・恋・雑に分けて収める。奥書に、忠度が俊成に送った自筆本に基づくとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1171,6 +1176,6 @@
   "poems": 100,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
